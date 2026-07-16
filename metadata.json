@@ -1,0 +1,6 @@
+{
+  "name": "Ekonomi Portalı",
+  "description": "TCMB, CoinGecko ve döviz kurları ile anlık finansal veri takibi, grafikler ve çevirici paneli içeren modern ekonomi portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
